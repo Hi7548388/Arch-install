@@ -39,7 +39,7 @@ echo "#########################################################################"
 
 cd ..
 
-cp -r Arch-install-desktop /mnt/home/
+cp -r arch-install /mnt/home/
 
 
 echo "##########################################"
@@ -47,4 +47,4 @@ echo "################## Done ##################"
 echo "##########################################"
 
 
-arch-chroot /mnt /home/install-desktop.sh
+arch-chroot /mnt /home/arch-install/install-desktop.sh
