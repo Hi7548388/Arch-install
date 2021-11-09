@@ -29,6 +29,15 @@
     <artist>Jens Ansorg</artist>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>background.png</name>
+    <filename>/usr/share/backgrounds/archlinux/background.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(60,143,37)</scolor>
+    <artist/>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Dune</name>
     <filename>/usr/share/backgrounds/mate/nature/Dune.jpg</filename>
     <options>zoom</options>
@@ -38,13 +47,13 @@
     <artist>Marco Cogoni, Hylke Bons</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Green Traditional</name>
-    <filename>/usr/share/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
+    <name>Wood</name>
+    <filename>/usr/share/backgrounds/mate/nature/Wood.jpg</filename>
     <options>zoom</options>
     <shade_type>vertical-gradient</shade_type>
     <pcolor>rgb(88,145,188)</pcolor>
     <scolor>rgb(60,143,37)</scolor>
-    <artist>l0r4n0n</artist>
+    <artist>Jean-Fran&#xE7;ois Fortin Tam</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Green Meadow</name>
@@ -56,13 +65,13 @@
     <artist>Timothy Schellhase, Lapo Calamandrei</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Wood</name>
-    <filename>/usr/share/backgrounds/mate/nature/Wood.jpg</filename>
+    <name>Green Traditional</name>
+    <filename>/usr/share/backgrounds/mate/desktop/GreenTraditional.jpg</filename>
     <options>zoom</options>
     <shade_type>vertical-gradient</shade_type>
     <pcolor>rgb(88,145,188)</pcolor>
     <scolor>rgb(60,143,37)</scolor>
-    <artist>Jean-Fran&#xE7;ois Fortin Tam</artist>
+    <artist>l0r4n0n</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Yellow Flower</name>
@@ -146,15 +155,6 @@
     <artist>Wyng Stancikaite</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Arc</name>
-    <filename>/usr/share/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
-    <options>zoom</options>
-    <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(39,88,126)</pcolor>
-    <scolor>rgb(98,127,90)</scolor>
-    <artist>(none)</artist>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>MATE Stripes Light</name>
     <filename>/usr/share/backgrounds/mate/desktop/MATE-Stripes-Light.png</filename>
     <options>zoom</options>
@@ -162,15 +162,6 @@
     <pcolor>rgb(63,77,40)</pcolor>
     <scolor>rgb(106,148,38)</scolor>
     <artist>Adam Erdman</artist>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Stripes</name>
-    <filename>/usr/share/backgrounds/mate/desktop/Stripes.png</filename>
-    <options>zoom</options>
-    <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(88,145,188)</pcolor>
-    <scolor>rgb(68,165,42)</scolor>
-    <artist>Jakub Steiner</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Something slowly gets clear</name>
@@ -182,6 +173,24 @@
     <artist>Wyng Stancikaite</artist>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Stripes</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Stripes.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(68,165,42)</scolor>
+    <artist>Jakub Steiner</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Arc</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(39,88,126)</pcolor>
+    <scolor>rgb(98,127,90)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>MATE Stripes Dark</name>
     <filename>/usr/share/backgrounds/mate/desktop/MATE-Stripes-Dark.png</filename>
     <options>zoom</options>
@@ -191,13 +200,13 @@
     <artist>Adam Erdman</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>No Desktop Background</name>
-    <filename>(none)</filename>
-    <options>wallpaper</options>
+    <name>Aqua</name>
+    <filename>/usr/share/backgrounds/mate/nature/Aqua.jpg</filename>
+    <options>zoom</options>
     <shade_type>vertical-gradient</shade_type>
     <pcolor>rgb(88,145,188)</pcolor>
     <scolor>rgb(60,143,37)</scolor>
-    <artist>(none)</artist>
+    <artist>Charles Barbin</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Float into MATE</name>
@@ -209,13 +218,13 @@
     <artist>Rowen Stipe</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Aqua</name>
-    <filename>/usr/share/backgrounds/mate/nature/Aqua.jpg</filename>
-    <options>zoom</options>
+    <name>No Desktop Background</name>
+    <filename>(none)</filename>
+    <options>wallpaper</options>
     <shade_type>vertical-gradient</shade_type>
     <pcolor>rgb(88,145,188)</pcolor>
     <scolor>rgb(60,143,37)</scolor>
-    <artist>Charles Barbin</artist>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Spring</name>
@@ -245,15 +254,6 @@
     <artist>Daniel Galleguillos, Hylke Bons</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Ubuntu MATE Dark</name>
-    <filename>/usr/share/backgrounds/mate/desktop/Ubuntu-Mate-Dark-no-logo.png</filename>
-    <options>zoom</options>
-    <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(88,145,188)</pcolor>
-    <scolor>rgb(60,143,37)</scolor>
-    <artist>Goce Mitevski</artist>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Rain Drops</name>
     <filename>/usr/share/backgrounds/mate/nature/RainDrops.jpg</filename>
     <options>zoom</options>
@@ -261,6 +261,15 @@
     <pcolor>rgb(88,145,188)</pcolor>
     <scolor>rgb(60,143,37)</scolor>
     <artist>blackcombwhistler07</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE Dark</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Ubuntu-Mate-Dark-no-logo.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(60,143,37)</scolor>
+    <artist>Goce Mitevski</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Something slowly gets clear</name>
