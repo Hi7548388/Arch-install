@@ -47,4 +47,4 @@ echo "################## Done ##################"
 echo "##########################################"
 
 
-arch-chroot /mnt /mnt/home/install-desktop.sh
+arch-chroot /mnt /home/install-desktop.sh
