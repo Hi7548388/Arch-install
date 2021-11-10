@@ -312,7 +312,7 @@ echo "#####################################################################"
 echo "################## Adding Themeing ##################################"
 echo "#####################################################################"
 
-pacman -S arcolinux-arc-themes-git arcolinux-candy-beauty-git ttf-bitstream-vera
+pacman -S arcolinux-arc-themes-git arcolinux-candy-beauty-git ttf-bitstream-vera archlinux-wallpaper
 
 echo "#####################################################################"
 echo "################## Done #############################################"
