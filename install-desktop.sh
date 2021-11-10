@@ -347,7 +347,6 @@ cp -r /home/arch-install/config /home/user1/.config
 
 cp -r /home/arch-install/bashrc /home/user1/.bashrc
 
-cp -r /home/arch-install/archlinux /usr/share/backgrounds
 
 cp -r /home/arch-install/issue /etc
 
