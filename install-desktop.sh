@@ -342,11 +342,11 @@ echo "#####################################################################"
 echo "################## Done #############################################"
 echo "#####################################################################"
 
-cp -r /home/arch-install/config /mnt/home/user1/.config
+cp -r /home/arch-install/config /home/user1/.config
 
-cp -r /home/arch-install/bashrc /mnt/home/user1/.bashrc
+cp -r /home/arch-install/bashrc /home/user1/.bashrc
 
-cp -r /home/arch-install/archlinux /mnt/usr/share/backgrounds
+cp -r /home/arch-install/archlinux /usr/share/backgrounds
 
 echo "#####################################################################"
 echo "################## Done All ############################################"
