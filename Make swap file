@@ -1,0 +1,9 @@
+dd if=/dev/zero of=/swapfile bs=1M count=512 status=progress
+
+chmod 600 /swapfile
+
+mkswap /swapfile
+
+swapon /swapfile
+
+" /swapfile none swap defaults 0 0 "
