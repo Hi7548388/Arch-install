@@ -301,7 +301,7 @@ echo "#####################################################################"
 
 sudo pacman -Syy
 
-sudo pacman -S pamac-all mate-tweak paru-bin libdvdcss google-chrome
+sudo pacman -S pamac-all mate-tweak paru-bin libdvdcss google-chrome mpv chaotic-keyring chaotic-mirrorlist
 
 echo "#####################################################################"
 echo "################## Done #############################################"
@@ -349,6 +349,19 @@ cp -r /home/Arch-install/bashrc /home/user1/.bashrc
 
 
 cp -r /home/Arch-install/issue /etc
+
+echo "#####################################################################"
+echo "################## Done All ############################################"
+echo "#####################################################################"
+
+echo "#####################################################################"
+echo "################## Repo add #########################################"
+echo "#####################################################################"
+
+echo '
+[chaotic-aur]
+SigLevel = Required DatabaseOptional
+Include = /etc/pacman.d/chaotic-mirrorlist' | sudo tee --append /etc/pacman.conf
 
 echo "#####################################################################"
 echo "################## Done All ############################################"
