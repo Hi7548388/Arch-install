@@ -43,6 +43,7 @@ chmod 600 /mnt/opt/swap/swapfile
 chown root /mnt/opt/swap/swapfile
 
 mkswap /mnt/opt/swap/swapfile
+
 swapon /mnt/opt/swap/swapfile
 
 " /swapfile none swap defaults 0 0 "
