@@ -1,6 +1,8 @@
+#!/bin/bash
+
 mkdir /opt/swap
 
- dd if=/dev/zero of=/opt/swap/swapfile bs=1M count=2048 status=progress
+dd if=/dev/zero of=/opt/swap/swapfile bs=1M count=2048 status=progress
 
 chmod 600 /opt/swap/swapfile
 
