@@ -23,7 +23,7 @@ echo "###########################################################"
 
 timedatectl set-ntp true
 
-mkfs.fat -F32 /dev/sda1
+mkfs.ext4 /dev/sda1
 
 mkfs.ext4 /dev/sda2
 
@@ -64,4 +64,4 @@ echo "################## Done ####################"
 echo "##########################################"
 
 
-arch-chroot /mnt /home/Arch-install/install-desktop.sh
+arch-chroot /mnt /home/Arch-install/install-desktop1.sh
