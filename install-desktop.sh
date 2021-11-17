@@ -343,12 +343,12 @@ echo "#####################################################################"
 echo "################## Done #############################################"
 echo "#####################################################################"
 
-cp -r /home/arch-install/config /home/user1/.config
+cp -r /home/Arch-install/config /home/user1/.config
 
-cp -r /home/arch-install/bashrc /home/user1/.bashrc
+cp -r /home/Arch-install/bashrc /home/user1/.bashrc
 
 
-cp -r /home/arch-install/issue /etc
+cp -r /home/Arch-install/issue /etc
 
 echo "#####################################################################"
 echo "################## Done All ############################################"
